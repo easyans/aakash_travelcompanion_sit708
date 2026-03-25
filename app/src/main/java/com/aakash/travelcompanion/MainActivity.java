@@ -56,6 +56,16 @@ public class MainActivity extends AppCompatActivity {
                 android.R.layout.simple_spinner_dropdown_item, units);
         spinnerFrom.setAdapter(adapter);
         spinnerTo.setAdapter(adapter);
+
+        // Set default selections to compatible pairs
+        spinnerFrom.setSelection(0);
+        if (categoryIndex == 0) {
+            spinnerTo.setSelection(1); // USD -> AUD
+        } else if (categoryIndex == 1) {
+            spinnerTo.setSelection(1); // MPG -> km/L
+        } else {
+            spinnerTo.setSelection(1); // Celsius -> Fahrenheit
+        }
     }
 
     void performConversion() {
