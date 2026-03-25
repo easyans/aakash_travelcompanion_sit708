@@ -46,4 +46,5 @@ Deakin University — SIT708
 
 Here are some screenshots of my work:
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
-<img width="1372" height="892" alt="image" src="https://github.com/user-attachments/assets/0451c07d-3873-474e-ba07-cbeaf1733db6" /># ✈️ Travel Companion App
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/5e250b53-36ae-4b0d-9f69-e6acb11792d7" />
+# ✈️ Travel Companion App
